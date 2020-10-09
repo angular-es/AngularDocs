@@ -6,3 +6,18 @@
 
 This is a simple couple of instructions in python and hosted in Google cloud 
 
+## commands 
+the prefix command to invoke the bot is `$`
+example `$help` to show commands or `$info` to show about the server 
+We are currently working in a DRY way to show all the content the sugestion is:
+Example 
+`$animations`then show a description and a code example and a more message with url 
+maybe the best way is add a subfix like: 
+`$animation docs`
+`$animation example`
+`$animation usage`
+`$animation syntax`
+
+this will keep clear the questions and the answers
+As a suggestion use a structure like the api list in the official documentation
+https://angular.io/api
